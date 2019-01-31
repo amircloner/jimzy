@@ -1,2 +1,15 @@
+User-agent: AdsBot-Google
+Disallow: /maps/api/js/AuthenticationService.Authenticate
+Disallow: /maps/api/js/DirectionsService.Route
+Disallow: /maps/api/js/DistanceMatrixService.GetDistanceMatrix
+Disallow: /maps/api/js/ElevationService.GetElevationForLine
+Disallow: /maps/api/js/GeocodeService.Search
+Disallow: /maps/api/js/QuotaService.RecordEvent
+
 User-agent: *
-Disallow: /cgi-bin
+Disallow: /maps/api/js/AuthenticationService.Authenticate
+Disallow: /maps/api/js/DirectionsService.Route
+Disallow: /maps/api/js/DistanceMatrixService.GetDistanceMatrix
+Disallow: /maps/api/js/ElevationService.GetElevationForLine
+Disallow: /maps/api/js/GeocodeService.Search
+Disallow: /maps/api/js/QuotaService.RecordEvent
