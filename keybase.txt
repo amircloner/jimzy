@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/amircloner
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jimzy.ir
+  * I am amircloner (https://keybase.io/amircloner) on keybase.
+  * I have a public key ASBl94KfLTsLbvsCetRDDJreK0ikhs9aW_ks4Hs8FUt1kAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012065f7829f2d3b0b6efb027ad4430c9ade2b48a486cf5a5bf92ce07b3c154b75900a",
+      "host": "keybase.io",
+      "kid": "012065f7829f2d3b0b6efb027ad4430c9ade2b48a486cf5a5bf92ce07b3c154b75900a",
+      "uid": "b3090d2e64458998cdfbf8c58042d619",
+      "username": "amircloner"
+    },
+    "merkle_root": {
+      "ctime": 1549870277,
+      "hash": "306544c4b8cff82b478f5f9fe85120fe7bfa3ed06e29b3c80f9c7f503e34943daee6d0df2344220e26c9abfd34448bd7e6a9deab9c3456bfc3ec3eb7e8de9480",
+      "hash_meta": "8c9082b861bd07b1e4de5ac2082851357bf52efaff6ced9a71a76a8e5151a1e3",
+      "seqno": 4740409
+    },
+    "service": {
+      "entropy": "+OmIQJXziKypLGHDVn3RtefK",
+      "hostname": "jimzy.ir",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1549870300,
+  "expire_in": 504576000,
+  "prev": "27d09f15f7018cc8c72f590b2ce57f9abc0a60f0d548baafcbe6f02c5e55c9e8",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZfeCny07C277AnrUQwya3itIpIbPWlv5LOB7PBVLdZAKp3BheWxvYWTESpcCDsQgJ9CfFfcBjMjHL1kLLOV/mrwKYPDVSLqvy+bwLF5VyejEIHZMh7heIkj7Fbrj7GQkyr6F3So4uEwZjmbWjG+vR3/fAgHCo3NpZ8RAa5+jOAQCHWwzEkuPfDeS1KKlnk9NHvkQl1HZLTKGRPLtBx3hl1zagU/jKc5hyL1Z3AduPpg99AmN6kvBBjh9AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOMBevkK4mfO8XqNCwyOYMv5Db1ux87js+bXdRJhoF9oo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/amircloner
+
+==================================================================
